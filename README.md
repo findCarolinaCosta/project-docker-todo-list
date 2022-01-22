@@ -19,7 +19,7 @@ Docker to do list the following requires [NPM](https://www.npmjs.com/) v6+ to ru
 
 Make a git clone of the repository.
 ```
-git clone https://github.com/findCarolinaCosta/project-docker-todo-list
+git clone https://github.com/findCarolinaCosta/project-docker-todo-list.git
 ```
 
 Install the dependencies and devDependencies and run the tests.
